@@ -1,0 +1,9 @@
+This will be a react app thats fully functional and has many functions.
+
+Functions to add
+1. Able to order food
+2. Show order Details Screen
+3. Login & Registration??
+4. Menu Items 
+5. Add Prices of all Items
+6. Logout and start new order

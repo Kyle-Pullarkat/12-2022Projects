@@ -1,0 +1,2 @@
+This Project is aimed to help me by improving my HTML/CSS Skills and try to make
+the website look as good as i can. It Will be a website for browsing Movies.
