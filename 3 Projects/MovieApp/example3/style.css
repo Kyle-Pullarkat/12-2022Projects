@@ -1,0 +1,68 @@
+
+.main{
+    background-color: rgb(68, 68, 68);
+    height: 1000px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbarz{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(255, 0, 0, 0.6);
+    height: 60px;
+}
+
+.right-nav1{
+    display: flex;
+    align-items: center;
+}
+
+.left-nav1{
+    display: flex;
+    align-items: center;
+    width: 50%;
+}
+
+.left-nav1 h3{
+    padding-left: 5%;
+}
+
+.left-nav1 h1{
+    padding-left: 5%;
+}
+
+.movielist{
+    display: flex;
+    justify-content: center;
+}
+
+.movies{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.title2{
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.text-box{
+    background-color: rgb(102, 98, 98);
+    padding: none;
+    color: white;
+    display: flex;
+    flex-direction: column;
+
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+
+}
+
+

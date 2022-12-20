@@ -1,0 +1,31 @@
+What to work on
+
+
+
+2. Different fonts??
+3. Work on Navbar next
+4. Work on Logout Button
+5. more space vertically ( right now text is touching top of transformers)
+
+
+Work on
+    Navbar -> movie details -> mylist -> login and reg
+
+moviedetails
+-movie name
+-genre 
+-etc
+-add to watchlist button, redirects you to your list (mylist.html)
+
+
+
+
+IMPORTANT
+
+NEXT TO DO list
+
+1. figure out how to create search bar and search movies 
+2. work on movie details page ( when u click on movie it shows the movies details )
+3. make everything look good css wise 
+4. Done 
+5. Black Belt: figure a way to show default movies on screen ??
