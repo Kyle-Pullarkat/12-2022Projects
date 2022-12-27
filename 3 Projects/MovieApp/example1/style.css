@@ -1,8 +1,11 @@
 
 
 .container{
-    background-color: #202D30;
+    background-color: rgb(39, 39, 39);
 }
+/*     background-color: #202D30;*/
+
+/* Navy blue background rgb(4, 6, 43); */
 
 *{
     margin: 0;
@@ -13,7 +16,7 @@
 
     display: flex;
     justify-content: space-between;
-    background-color: rgba(255, 255, 255 ,0.1);
+    background-color: black;
     padding-bottom: 5px;
     color: white;
 }
@@ -21,7 +24,23 @@
 .nav-title{
     display: flex;
     align-items: center;
+    padding-left: 10px;
 }
+
+.nav-title2{
+    display: flex;
+    align-items: center;
+    width: 90%;
+}
+
+.nav-title2 a{
+    color: white;
+    text-decoration: none;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Text-decoration:none removed the underline from the links*/
 
 .main{
     display: flex;
@@ -30,6 +49,13 @@
     text-align: center;
     padding-top: 25px;
     padding-left: 20px;
+}
+
+.eachmovie{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 10px;
+    padding-left: 10px;
 }
 
 p {
@@ -53,29 +79,8 @@ img:hover{
 }
 
 
-.links {
-
-    display: flex;
+    .links {
+        display: flex;
 
 }
 
-
-  /* Style the search box inside the navigation bar */
-  .topnav input[type=text] {
-    float: right;
-    padding: 6px;
-    border: none;
-    margin-top: 8px;
-    margin-right: 16px;
-    font-size: 17px;
-  }
-
-
-  .movies{
-    display: flex;
-    flex-direction: row;
-    flex-flow: wrap;
-    text-align: center;
-    padding-top: 25px;
-    padding-left: 20px;
-  }
