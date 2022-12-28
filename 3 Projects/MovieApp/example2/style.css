@@ -10,6 +10,7 @@
 
     
     overflow-x: hidden;
+    font-family: 'Bebas Neue', sans-serif;
 }
 
 
@@ -72,5 +73,11 @@ button{
 .title-2{
     padding-left: 5%;
 
+}
+
+
+.side1 button a{
+    text-decoration: none;
+    color: white;
 }
 

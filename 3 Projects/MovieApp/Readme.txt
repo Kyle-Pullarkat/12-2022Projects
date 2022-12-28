@@ -2,20 +2,14 @@ this is a project to help practice my HTML/CSS skills, so i decided to make 3 mo
 with 3 different styles to see what i can do.
 
 
+Example 1
+Very basic, was trying to make it look good without using pictures.
 
+Example 2
+Made a webpage for when u click on the movie, shows movie description, title and other
+popular movies below
 
-Notes/Things to add
+Example 3
+for this webpage i tried to make it look similar to netflix style
 
-Example2
-    - Make the pictures on the bottom links
-    - Make the watch now link to youtube or somewhere to watch the movie 
-
-Example 1 & 3 - needs more
-
-    progress
-
-    Example 1 - Working On 
-
-    Example 2 - About Finished 90%
-
-    Example 3 - Working on
+** photos holds pictures of each webpage **
